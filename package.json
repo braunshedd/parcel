@@ -1,0 +1,11 @@
+{
+  "name": "parcel",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "A parcel tracking library, small enough to read in one sitting.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node --test"
+  }
+}
